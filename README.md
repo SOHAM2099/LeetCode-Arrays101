@@ -12,6 +12,7 @@ This repo contains problem statements and my submitted solutions.
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0485-max-consecutive-ones) |
 | [1019-squares-of-a-sorted-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1168-duplicate-zeros) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Math
 |  |
@@ -21,6 +22,7 @@ This repo contains problem statements and my submitted solutions.
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1168-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |

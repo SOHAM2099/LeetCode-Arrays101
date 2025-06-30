@@ -10,6 +10,7 @@ This repo contains problem statements and my submitted solutions.
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0485-max-consecutive-ones) |
 | [1019-squares-of-a-sorted-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1168-duplicate-zeros) |
@@ -21,10 +22,12 @@ This repo contains problem statements and my submitted solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1168-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->

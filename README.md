@@ -17,6 +17,7 @@ This repo contains problem statements and my submitted solutions.
 | [1019-squares-of-a-sorted-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1168-duplicate-zeros) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -29,9 +30,19 @@ This repo contains problem statements and my submitted solutions.
 | [0088-merge-sorted-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1168-duplicate-zeros) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1468-check-if-n-and-its-double-exist) |
+## Hash Table
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1468-check-if-n-and-its-double-exist) |
+## Binary Search
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->

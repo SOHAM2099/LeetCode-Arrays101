@@ -29,13 +29,15 @@ class Solution {
         while (left + 1 < arr.length && arr[left] < arr[left + 1])
             left++;
 
-        
+        if(left==0) return false;   //no up-slope
 
         // Move right pointer down while strictly decreasing
         while (right - 1 >= 0 && arr[right - 1] > arr[right])
             right--;
+
+        if(right==arr.length-1) return false;   //no down-slope
         
         // Both pointers must meet at the peak and not be at the ends
-        return left > 0 && right < arr.length - 1 && left == right;
+        return (left==right);
     }
 }

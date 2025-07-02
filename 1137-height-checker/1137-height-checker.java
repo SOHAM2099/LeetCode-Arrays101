@@ -2,10 +2,11 @@ class Solution {
     //SOHAM2099
     public int heightChecker(int[] heights) {
        
-        int[] expected=new int[heights.length];
+        /*int[] expected=new int[heights.length];
         int index=0;
         for(int a:heights)
-            expected[index++]=a;
+            expected[index++]=a;*/
+        int[] expected=heights.clone();
         Arrays.sort(expected);
         
         int count=0;

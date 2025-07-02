@@ -2,7 +2,7 @@ class Solution {
     //SOHAM2099
     public int[] replaceElements(int[] arr) {
         
-        int maxindex=find_maxindex(arr,0);
+    /*    int maxindex=find_maxindex(arr,0);
         
         for(int i=0;i<arr.length-1;i++)
         {
@@ -23,5 +23,20 @@ class Solution {
                 max=i;
         }
         return max;
+    }
+    */
+
+    
+    int max=-1,newmax=-1;
+    
+    for(int i=arr.length-1;i>=0;i--)
+    {
+        if(arr[i]>max)
+            newmax=arr[i];
+
+        arr[i]=max;
+        max=newmax;
+    }
+    return arr;
     }
 }

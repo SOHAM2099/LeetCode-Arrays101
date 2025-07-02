@@ -15,6 +15,7 @@ This repo contains problem statements and my submitted solutions.
 | [0088-merge-sorted-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0485-max-consecutive-ones) |
+| [0941-sort-array-by-parity](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1168-duplicate-zeros) |
@@ -32,6 +33,7 @@ This repo contains problem statements and my submitted solutions.
 | [0027-remove-element](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0283-move-zeroes) |
+| [0941-sort-array-by-parity](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -39,6 +41,7 @@ This repo contains problem statements and my submitted solutions.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0088-merge-sorted-array) |
+| [0941-sort-array-by-parity](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Hash Table

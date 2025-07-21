@@ -15,6 +15,7 @@ This repo contains problem statements and my submitted solutions.
 | [0088-merge-sorted-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0485-max-consecutive-ones) |
 | [0941-sort-array-by-parity](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0978-valid-mountain-array) |
@@ -51,6 +52,7 @@ This repo contains problem statements and my submitted solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SOHAM2099/LeetCode-Arrays101/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
